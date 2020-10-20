@@ -17,12 +17,16 @@
                         <ColumnDefinition Width="3*"/>
                     </Grid.ColumnDefinitions>
                     <Grid.RowDefinitions>
-                        
+
                     </Grid.RowDefinitions>
 
                     <Grid Grid.Column="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="87*"/>
+                            <ColumnDefinition Width="209*"/>
+                        </Grid.ColumnDefinitions>
                         <!--Left Subgrid Definition-->
-                        <TextBlock>Game 1</TextBlock>
+                        <TextBlock Grid.ColumnSpan="2">Game 1</TextBlock>
                         <Grid.RowDefinitions>
                             <RowDefinition Height="3*"/>
                             <RowDefinition Height="3*"/>
@@ -57,6 +61,7 @@
                                     <ColumnDefinition Width="*"/>
                                     <ColumnDefinition Width="*"/>
                                 </Grid.ColumnDefinitions>
+                                <TextBox></TextBox>
                             </Grid>
                         </Grid>
                         <!--Right Row 2-->
@@ -118,7 +123,7 @@
 
                     <Grid Grid.Column="0">
                         <!--Left Subgrid Definition-->
-                        <TextBlock>Game 1</TextBlock>
+                        <TextBlock>Game 2</TextBlock>
                         <Grid.RowDefinitions>
                             <RowDefinition Height="3*"/>
                             <RowDefinition Height="3*"/>
@@ -214,7 +219,7 @@
 
                     <Grid Grid.Column="0">
                         <!--Left Subgrid Definition-->
-                        <TextBlock>Game 1</TextBlock>
+                        <TextBlock>Game 3</TextBlock>
                         <Grid.RowDefinitions>
                             <RowDefinition Height="3*"/>
                             <RowDefinition Height="3*"/>
@@ -310,7 +315,7 @@
 
                     <Grid Grid.Column="0">
                         <!--Left Subgrid Definition-->
-                        
+
                         <Grid.RowDefinitions>
 
                         </Grid.RowDefinitions>
