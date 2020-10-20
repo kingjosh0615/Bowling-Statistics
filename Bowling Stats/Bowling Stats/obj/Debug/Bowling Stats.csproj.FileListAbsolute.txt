@@ -1,0 +1,15 @@
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\bin\Debug\Bowling Stats.exe.config
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\bin\Debug\Bowling Stats.exe
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\bin\Debug\Bowling Stats.pdb
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\Bowling Stats.csprojAssemblyReference.cache
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\MainWindow.g.cs
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\App.g.cs
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\Bowling Stats_MarkupCompile.cache
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\Bowling Stats_MarkupCompile.lref
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\MainWindow.baml
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\Bowling Stats.g.resources
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\Bowling_Stats.Properties.Resources.resources
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\Bowling Stats.csproj.GenerateResource.cache
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\Bowling Stats.csproj.CoreCompileInputs.cache
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\Bowling Stats.exe
+C:\Users\WILES_JOSHUA\source\repos\Bowling-Statistics\Bowling Stats\Bowling Stats\obj\Debug\Bowling Stats.pdb
